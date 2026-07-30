@@ -13,7 +13,7 @@ panorama_AEE9FED0_B362_A67B_41E1_CC6FE26024CC.label = 3 Sala Infantil 2ndo piso
 Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
 
 ### Label
-Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Biblioteca Luis Munñoz Mariín
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Biblioteca Luis Munñoz Marín
 Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Municipal, Barranquitas
 
 ### Multiline Text
